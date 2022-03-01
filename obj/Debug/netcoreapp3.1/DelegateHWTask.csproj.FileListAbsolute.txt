@@ -1,0 +1,14 @@
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\bin\Debug\netcoreapp3.1\DelegateHWTask.exe
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\bin\Debug\netcoreapp3.1\DelegateHWTask.deps.json
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\bin\Debug\netcoreapp3.1\DelegateHWTask.runtimeconfig.json
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\bin\Debug\netcoreapp3.1\DelegateHWTask.runtimeconfig.dev.json
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\bin\Debug\netcoreapp3.1\DelegateHWTask.dll
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\bin\Debug\netcoreapp3.1\DelegateHWTask.pdb
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\obj\Debug\netcoreapp3.1\DelegateHWTask.csproj.AssemblyReference.cache
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\obj\Debug\netcoreapp3.1\DelegateHWTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\obj\Debug\netcoreapp3.1\DelegateHWTask.AssemblyInfoInputs.cache
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\obj\Debug\netcoreapp3.1\DelegateHWTask.AssemblyInfo.cs
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\obj\Debug\netcoreapp3.1\DelegateHWTask.csproj.CoreCompileInputs.cache
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\obj\Debug\netcoreapp3.1\DelegateHWTask.dll
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\obj\Debug\netcoreapp3.1\DelegateHWTask.pdb
+C:\Users\Onur\source\repos\DelegateHWTask\DelegateHWTask\obj\Debug\netcoreapp3.1\DelegateHWTask.genruntimeconfig.cache
